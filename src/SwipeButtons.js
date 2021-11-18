@@ -8,7 +8,7 @@ import FlashOnIcon from '@mui/icons-material/FlashOn';
 import  {IconButton}  from '@mui/material';
 function SwipeButtons() {
     return (
-        <div className="swipeButoons">
+        <div className="swipeButtons">
             <IconButton className="swipeButtons_repeat">
         <ReplayIcon fontSize="large"/>
         </IconButton >
